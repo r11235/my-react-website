@@ -1,0 +1,10 @@
+.CompA {
+  background-color: teal;  /*#282c34;*/
+  color: white;
+  align-items: center;
+  text-align: center;
+  border-top: 100px;
+  border-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

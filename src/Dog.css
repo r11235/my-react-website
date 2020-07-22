@@ -1,0 +1,29 @@
+.Dog {
+  background-color: #282c34; /*grey*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Dog-img {
+	background-color: #5267a3; /*medium blue*/
+  align-items: center;
+	border-bottom-color: #c0d2ed; /*#5267a3;*/
+  border-top-color: white;
+  border-top: 100px;
+  padding: 0px 0px 0px 0px;
+}
+
+#dog-img {
+  background-color: teal; /*#c0d2ed;light blue*/
+  align-items: center;
+  border-top: 100px;
+  border-bottom: 100px;
+  padding-top: 20px;    /*50px*/
+  padding-bottom: 20px; /*50px*/
+}
+

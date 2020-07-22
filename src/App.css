@@ -29,15 +29,15 @@
 }
 
 .App-link:visited {
-  color: green;
+  color: #61dafb;
 }
 
 .App-link:hover {
-  color: hotpink;
+  color: pink;
 }
 
 .App-link:active {
-  color: blue;
+  color: aqua;
 }
 
 

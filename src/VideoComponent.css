@@ -1,8 +1,11 @@
 .Video {
-  background-color: teal; /*#c0d2ed;light blue*/
+  background-color: none;
   align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   border-top: 100px;
   border-bottom: 100px;
-  padding-top: 20px;    /*50px*/
-  padding-bottom: 20px; /*50px*/
+  padding-top: 20px;
+  padding-bottom: 20px;
 }

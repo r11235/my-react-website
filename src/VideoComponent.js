@@ -1,12 +1,15 @@
 import React from 'react';
 import './VideoComponent.css'
+// width='852' height='479'
 
 function VideoComponent(props){
 	return (
         <div className="Video">
-            <iframe allowfullscreen title={props.title} className="" width='852' height='479'
-                    scrolling='no' frameborder='0' style={{border: 'none'}}
-                    src={props.source}></iframe>
-        </div>)};
+            <iframe allowfullscreen title={props.title} width='468.6' height='263.45'
+                    scrolling='no' frameborder='0' style={{border: 'none'}} src={props.source}>
+            </iframe>
+        </div>
+    )
+};
 
 export default VideoComponent;

@@ -1,4 +1,4 @@
-.Dog {
+.Videos {
   background-color: #282c34; /*grey*/
   min-height: 100vh;
   display: flex;
@@ -9,7 +9,7 @@
   color: white;
 }
 
-.Dog-img {
+.Videos-img {
 	background-color: #5267a3; /*medium blue*/
   align-items: center;
 	border-bottom-color: #c0d2ed; /*#5267a3;*/
@@ -18,7 +18,7 @@
   padding: 0px 0px 0px 0px;
 }
 
-#dog-img {
+#videos-img {
   background-color: teal; /*#c0d2ed;light blue*/
   align-items: center;
   border-top: 100px;

@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import ComponentA from './ComponentA.js'
-import Dog from './Dog.js';
+import Videos from './Videos.js';
 import Footer from './Footer.js';
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
 
         <ComponentA />
 
-        <Dog />
+        <Videos />
 
         <Footer />
 

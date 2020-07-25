@@ -1,13 +1,13 @@
 import React from 'react';
-import './Dog.css';
+import './Videos.css';
 import ListOfVideos from './ListOfVideos.js';
 import videolist from './videolist.js';
 
 // <VideoWithTitle title="" source='' />
 
-function Dog() {
+function Videos() {
 	return (
-            <div className='Dog'>
+            <div className='Videos'>
 
               <div> <ListOfVideos list={videolist} /> </div>
 
@@ -15,4 +15,4 @@ function Dog() {
   )
 }
 
-export default Dog;
+export default Videos;

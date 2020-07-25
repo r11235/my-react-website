@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Dog from './Dog.js';
 import ComponentA from './ComponentA.js'
+import Dog from './Dog.js';
+import Footer from './Footer.js';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
     <div>
     
       <header className="App-header">
-        
+
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>
@@ -33,6 +34,8 @@ function App() {
         <ComponentA />
 
         <Dog />
+
+        <Footer />
 
       </body>
 

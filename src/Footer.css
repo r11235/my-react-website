@@ -1,13 +1,35 @@
 .Footer {
-	background-color: #282c34; /*#282c34; none;*/
+	background-color: #282c34;
 	color: teal;
 	text-align: center;
 	align-items: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border-top: 100px;
-    border-bottom: 100px;
-    padding-top: 40px;     /*20px*/
-    padding-bottom: 40px;  /*20px*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 100px;
+  border-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Footer-link {
+  color: teal;
+  text-decoration: none;
+}
+
+.Footer-link:visited {
+  color: teal;
+}
+
+.Footer-link:hover {
+  color: pink;
+}
+
+.Footer-link:active {
+  color: aqua;
+}
+
+span {
+  font-size: 80%;
+  font-style: italic;
 }

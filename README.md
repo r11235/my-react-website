@@ -1,4 +1,4 @@
-This repository contains code for a website with videos.
+This repository contains code for a website with videos. 
 It was created with ReactJS and deployed in the AWS cloud.
 
 See the website:  https://www.doggiedreamtime.com/

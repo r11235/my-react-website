@@ -1,3 +1,11 @@
+This repository contains code for a website with videos. 
+
+It was created with ReactJS and deployed in the AWS cloud.
+
+See the website:  https://www.doggiedreamtime.com/
+
+--------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

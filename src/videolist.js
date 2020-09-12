@@ -10,7 +10,7 @@ const videolist = [{title:"Doggie Dreamtime", source:'https://www.wevideo.com/em
                    {title:"Doggie Dreamtime III: The Nightmare", source:'https://www.wevideo.com/embed/#1767941006'},
                    {title:"Doggie Dreamtime: Stars Align", source:'https://www.wevideo.com/embed/#1772448036'},
                    {title:"Doggie Dreamtime: Whirling Eye", source:'https://www.wevideo.com/embed/#1774930338'},
-                   {title:"Doggie Dreamtime: Desert Dreams", source:"https://www.wevideo.com/embed/#1829106375"},
+                   {title:"Doggie Dreamtime: Desert Dreams", source:'https://www.wevideo.com/embed/#1829106375'},
 ];
 
 export default videolist;

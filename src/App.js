@@ -15,7 +15,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>
-          This is a ReactJS app.
+          This is a ReactJS app. Learn React:
         </p>
         
         <a
@@ -24,8 +24,21 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          react.dev
         </a>
+
+        <br></br>
+
+        <a
+          className="App-link"
+          href="https://www.rmreact.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          rmreact.com
+        </a>
+
+        <br></br>
 
       </header>
 

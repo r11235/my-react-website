@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+//http://www.rachelspics.com
 
 function Footer () {
     return (
@@ -11,12 +12,7 @@ function Footer () {
 
                 App and Videos by Rachel Malucci <br/>
 
-                <a className="Footer-link"
-                   href="http://www.rachelspics.com"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                > www.RachelsPics.com </a>
-
+                
                 <a className="Footer-link"
                    href="https://github.com/r11235"
                    target="_blank"
